@@ -4,19 +4,14 @@ This Power BI dashboard provides a comprehensive view of sales performance by an
 # Key Insights Covered
 📊 Sales Analysis:
 Total sales and revenue trends
-
 🧑‍🤝‍🧑 Customer Insights: 
 Top contributing customers
-
 📈 Performance Metrics: 
 Sales contribution by segment
-
 💰 Profitability:
 Gross profit and profit margin
-
 📦 Order Analytics: 
 Order volume and value distribution
-
 🚚 Delivery Reporting:
 Region-wise fulfilment efficiency
 
